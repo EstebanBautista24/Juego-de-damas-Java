@@ -1,0 +1,11 @@
+com\mycompany\proyectofinalmodelos\Proyecto.class
+Abstraccion\IFicha.class
+Logica\Damas.class
+Fichas\FichaBlanca.class
+Muertes\VistaMuertes.class
+Tablero\Tablero.class
+Fichas\FichaNegra.class
+Tablero\TabFichas.class
+Fichas\FichaNegraR.class
+Abstraccion\DecoradorFicha.class
+Fichas\FichaBlancaR.class
